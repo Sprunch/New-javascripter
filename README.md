@@ -1,2 +1,2 @@
-# New-javascripter
+# js2022
 Learning Javascript concepts 
